@@ -1,4 +1,4 @@
-package com.zzq.my_looper.base
+package com.zzq.my_recyclerview.base
 
 import android.os.Bundle
 import android.os.PersistableBundle

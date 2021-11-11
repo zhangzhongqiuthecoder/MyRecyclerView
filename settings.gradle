@@ -1,2 +1,2 @@
-rootProject.name = "My_Looper"
+rootProject.name = "My_RecyclerView"
 include ':app'
