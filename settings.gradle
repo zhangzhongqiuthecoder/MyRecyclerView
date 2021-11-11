@@ -1,0 +1,2 @@
+rootProject.name = "My_Looper"
+include ':app'
