@@ -1,7 +1,7 @@
-package com.zzq.my_looper
+package com.zzq.my_recyclerview
 
 import android.os.Bundle
-import com.zzq.my_looper.base.BaseActivity
+import com.zzq.my_recyclerview.base.BaseActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {

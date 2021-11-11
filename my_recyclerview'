@@ -1,0 +1,13 @@
+[dev 11f9e7f] '修改包名-
+ 14 files changed, 28 insertions(+), 25 deletions(-)
+ create mode 100644 .idea/.name
+ rename app/src/androidTest/java/com/zzq/{my_looper => my_recyclerview}/ExampleInstrumentedTest.kt (84%)
+ delete mode 100644 app/src/main/java/com/zzq/my_looper/base/BaseFragment.kt
+ rename app/src/main/java/com/zzq/{my_looper => my_recyclerview}/Fragment_01.kt (96%)
+ rename app/src/main/java/com/zzq/{my_looper => my_recyclerview}/Fragment_02.kt (96%)
+ rename app/src/main/java/com/zzq/{my_looper => my_recyclerview}/MainActivity.kt (85%)
+ rename app/src/main/java/com/zzq/{my_looper => my_recyclerview}/MyRecyclerViewAdapter.kt (96%)
+ rename app/src/main/java/com/zzq/{my_looper => my_recyclerview}/SimpleTextListActivity.kt (95%)
+ rename app/src/main/java/com/zzq/{my_looper => my_recyclerview}/base/BaseActivity.kt (96%)
+ create mode 100644 app/src/main/java/com/zzq/my_recyclerview/base/BaseFragment.kt
+ rename app/src/test/java/com/zzq/{my_looper => my_recyclerview}/ExampleUnitTest.kt (90%)

@@ -1,4 +1,4 @@
-package com.zzq.my_looper
+package com.zzq.my_recyclerview
 
 import android.view.LayoutInflater
 import android.view.View

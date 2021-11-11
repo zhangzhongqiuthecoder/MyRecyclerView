@@ -1,4 +1,4 @@
-package com.zzq.my_looper
+package com.zzq.my_recyclerview
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,13 +6,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 
-class Fragment_02 : Fragment(){
+class Fragment_01 : Fragment() {
 
     companion object {
-        private const val TAG = "Fragment_02"
-
-        fun createInstance(): Fragment_02 {
-            val fragment = Fragment_02().apply {
+        private const val TAG = "Fragment_01"
+        fun createInstance(): Fragment_01 {
+            val fragment = Fragment_01().apply {
                 arguments = Bundle().apply {
                     // putString( , )
                 }

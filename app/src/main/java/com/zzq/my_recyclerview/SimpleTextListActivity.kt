@@ -1,4 +1,4 @@
-package com.zzq.my_looper
+package com.zzq.my_recyclerview
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -7,8 +7,7 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSmoothScroller
-import androidx.recyclerview.widget.RecyclerView
-import com.zzq.my_looper.base.BaseActivity
+import com.zzq.my_recyclerview.base.BaseActivity
 import kotlinx.android.synthetic.main.activity_simple_text_list.*
 
 class SimpleTextListActivity : BaseActivity() {
