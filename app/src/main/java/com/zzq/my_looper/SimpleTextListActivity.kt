@@ -33,6 +33,7 @@ class SimpleTextListActivity : BaseActivity() {
             add("1111111111")
             add("2222222222")
             add("3333333333")
+            add("4444444444")
         }
     }
 
